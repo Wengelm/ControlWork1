@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<catalog>
+
+<info>
+   <name>Платье "Жульен"</name>
+    <size>54</size>
+    <price>340р</price>
+    <image>img/2.jpg</image>
+</info>
+    <info>
+        <name>Платье "Магдален"</name>
+        <size>52</size>
+        <price>300р</price>
+        <image>img/2.jpg</image>
+    </info>
+    <info>
+        <name>Платье "Идилия"</name>
+        <size>52</size>
+        <price>280р</price>
+        <image>img/2.jpg</image>
+    </info>
+    <info>
+        <name>Платье "Ромашка"</name>
+        <size>54</size>
+        <price>500р</price>
+        <image>img/2.jpg</image>
+    </info>
+</catalog>
